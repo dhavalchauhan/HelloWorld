@@ -42,6 +42,6 @@ int main()
 	cudaFree( bd );
 	
 	printf("%s\n", a);
-	sleep(1);
+	//sleep(1);
 	return EXIT_SUCCESS;
 }
